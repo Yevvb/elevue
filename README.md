@@ -2,7 +2,7 @@
 
 vuejs 练习项目，来源于[慕课](http://coding.imooc.com/class/74.html)。
 
-github源码地址 [ustbhuangyi](https://github.com/ustbhuangyi/vue-sell)。
+github源码地址 https://github.com/ustbhuangyi/vue-sell
 
 通过该项目，了解了 vue 的基本使用方法，相当于入门。对于 Vue 其中的很多细节还需要挖掘。但是从中还是学到了很多其他技巧
 
