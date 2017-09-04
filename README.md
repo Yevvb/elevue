@@ -1,6 +1,6 @@
 ## 项目总结
 
-声明：这是一个跟着练手的项目，来源于[慕课](http://coding.imooc.com/class/74.html)。
+vuejs 练习项目，来源于[慕课](http://coding.imooc.com/class/74.html)。
 
 github源码地址 [ustbhuangyi](https://github.com/ustbhuangyi/vue-sell)。
 
