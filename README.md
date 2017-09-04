@@ -12,7 +12,7 @@ vuejs 练习项目，来源于[慕课](http://coding.imooc.com/class/74.html)。
 - [x] vue 组件编写
 - [x] 图标字体，类似 iconfont，之前有使用过
 - [x] flex 布局简单使用，详细教程可以看[廖雪峰老师的教程](www.ruanyifeng.com/blog/2015/07/flex-examples.html)
-- [x] 1像素边框的实现。（这里是根据设备像素比来进行缩放，参考：移动端1像素边框的真正实现(blog.csdn.net/zfangls/article/details/53338655)，其他如设置屏幕宽度恒定750）
+- [x] 1像素边框的实现。（这里是根据设备像素比来进行缩放，参考：[移动端1像素边框的真正实现](blog.csdn.net/zfangls/article/details/53338655)，其他如设置屏幕宽度恒定750）
 - [x] sticky footer 的实现（第一次知道这么叫，就是页脚在没有竖向滚动条时在屏幕最底部，出现滚动条是会自动被内容撑开）
 - [x] stylus 的使用（这个我比较喜欢，写起来没有多余的代码看起来比较爽，但是缩进有时候会给自己挖坑，不推荐）
 - [x] 利用 CSS 来对不同设备像素比（device pixel ratio）做适配，达到响应式图片的设计
